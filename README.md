@@ -1,3 +1,1 @@
-# MultiChat-Application
-Computer Networks Mini Project
-#CONCEPT - Socket Programming 
+# HackerRank Python Module Solutions
